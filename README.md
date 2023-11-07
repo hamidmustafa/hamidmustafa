@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 <!--
-**hamidmustafa/hamidmustafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I 'm an iOS Engineer building software infrastructures for iOS mobile apps at 
+<a href="https://www.inrhythm.com/" target="_blank">Fidelity</a> and 
+<a href="https://www.inrhythm.com/" target="_blank">InRhythm</a>
 
 Here are some ideas to get you started:
 
