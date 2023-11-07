@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-<!--
+
 I 'm an iOS Engineer building software infrastructures for iOS mobile apps at 
 <a href="https://www.inrhythm.com/" target="_blank">Fidelity</a> and 
 <a href="https://www.inrhythm.com/" target="_blank">InRhythm</a>
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
