@@ -7,9 +7,11 @@
 - 🔭 Current Project 2 [Fidelity Bloom - iOS App](https://apps.apple.com/us/app/fidelity-bloom-save-spend/id1560669537)
 
 - 🔭 Previous Project 1 [Shark Clean - iOS App](https://apps.apple.com/us/app/sharkclean/id1271409097)
-  
+
+- 🔭 Previous Project 2 [Virgin Pulse - iOS App](https://apps.apple.com/us/app/sharkclean/id1271409097)
+
 - 💬 Ask me about **Swift, SwiftUI, UIKit, Ojective-C, SPM, Frameworks, System Design**
-- 
+  
 - 📫 Reach me out at **hamidmustafa.07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
